@@ -5,13 +5,13 @@ title: Final Chronicle
 
 ## About Me
 
-Hi, I'm [Your First Name], a student interested in [short blurb—e.g., game design, storytelling, building things, etc.].  
-This project was part of my final quest in [course name], and it reflects what I’ve learned about [theme—e.g., creativity, code, perseverance].
+Hi, I'm Emma Tong, a student interested in building things.  
+This project was part of my final quest in Programming Fundamentals, and it reflects what I’ve learned about Python.
 
 ## About My Project
 
-**Project Title:** *[Name it!]*   
-**One-line pitch:** [“A game where you…” or “A project that lets you…”]
+**Project Title:** *MCU Directory*   
+**One-line pitch:** A directory that shows you what Marvel Cinematic Universe (MCU) projects you should see before tagging along to see the latest MCU movie.
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
