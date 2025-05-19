@@ -13,7 +13,7 @@ This project was part of my final quest in Programming Fundamentals, and it refl
 **Project Title:** *MCU Directory*   
 **One-line pitch:** A directory that shows you what Marvel Cinematic Universe (MCU) projects you should see before tagging along to see the latest MCU movie.
 
-> Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
+> Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-19-tip.md)
 
 🛠️ [Source Code (GitHub)](files/CP_2025___Final_Quest.ipynb)  
 
