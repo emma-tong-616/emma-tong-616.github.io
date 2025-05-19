@@ -1,4 +1,4 @@
-# Here's how to access and use my Directory!
+# Instructions for Use
 
 1. Click on the file titled CP_2025__Final_quest.ipynb. This will download it
 2. Open Google Drive, select New, and then New File
