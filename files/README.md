@@ -1,7 +1,7 @@
 # Instructions for Use
 
 1. Click on the file titled CP_2025__Final_quest.ipynb. This will download it
-  2. files/CP_2025___Final_Quest.ipynb 
+    🛠️ [Source Code (GitHub)](files/CP_2025___Final_Quest.ipynb)  
 3. Open Google Drive, select New, and then New File
 4. Upload the downloaded source code, and open the file by clicking on the file once it's uploaded
 5. This will bring you to Google Colab. If you wish to simply run it, navigate to the Runtime tab in the top left, and select run all
