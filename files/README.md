@@ -1,6 +1,5 @@
 ---
-# Instructions for Use
----
+### Instructions for Use
 
 1. Click on [this link](https://colab.research.google.com/drive/19SRfhT24gWnXcTtiDNyVIQDqZN0-4aSl?usp=sharing)
 2. OR download the source code available by clicking on the Source Code (Github)) link, and upload the file to your Google Drive.
@@ -12,3 +11,4 @@
 8. If you wish to edit the movies, navigate to the Data Structures tab and edit away!
 9. If you wish to edit the conversions, navigate to the Conversions tab and edit away!
 10. If you wish to edit the main functions, navigate to the Compiling tab and edit away!
+---
