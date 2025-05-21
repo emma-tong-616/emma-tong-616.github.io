@@ -3,7 +3,7 @@
 ---
 
 1. Click on [this link](https://colab.research.google.com/drive/19SRfhT24gWnXcTtiDNyVIQDqZN0-4aSl?usp=sharing)
-2. OR download [this file](files/CP_2025___Final_Quest.ipynb) (also available by clicking on the Source Code (Github)) link, and upload the file to your Google Drive.
+2. OR download [this file (Github)](files/CP_2025___Final_Quest.ipynb) (also available by clicking on the Source Code (Github)) link, and upload the file to your Google Drive.
     3. Click to open the file. If you simply open it outside of Google Drive, you will receive an error.
 4. This will bring you to Google Colab. If you wish to simply run it, navigate to the Runtime tab in the top left, and select run all.
   5. At the bottom of the page, click on the last code cell and input your desired movie!
